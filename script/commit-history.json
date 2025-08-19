@@ -1,16 +1,35 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "2fc0f25aa32bbb952d57fe03088bfd4fa4420f42",
     "author": "David-ZemaP",
     "commit": {
       "date": "2025-08-19T01:53:23.000Z",
       "message": "commit",
-      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/HEAD"
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/2fc0f25aa32bbb952d57fe03088bfd4fa4420f42"
     },
     "stats": {
       "total": 21,
       "additions": 11,
       "deletions": 10,
+      "date": "2025-08-19"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-19T02:37:11.000Z",
+      "message": "Añadir la funcion de multiplicar en la pagina",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/HEAD"
+    },
+    "stats": {
+      "total": 34,
+      "additions": 26,
+      "deletions": 8,
       "date": "2025-08-19"
     },
     "coverage": 100,
