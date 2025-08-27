@@ -456,12 +456,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "c733b4e9849577d97d58946018cd05d2c3b0276c",
     "author": "David-ZemaP",
     "commit": {
       "date": "2025-08-27T03:36:09.000Z",
       "message": "feat: Green test for return FizzBuzz logic string",
-      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/HEAD"
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/c733b4e9849577d97d58946018cd05d2c3b0276c"
     },
     "stats": {
       "total": 6,
@@ -471,6 +471,25 @@
     },
     "coverage": 100,
     "test_count": 11,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T04:29:14.000Z",
+      "message": "fix: Imports and erase files the project doesn't need",
+      "url": "https://github.com/David-ZemaP/FizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 59,
+      "additions": 11,
+      "deletions": 48,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 8,
     "failed_tests": 0,
     "conclusion": "success"
   }
