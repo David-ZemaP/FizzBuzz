@@ -26,7 +26,7 @@ export function ConvertFizzBuzz(n) {
 export function generateFizzBuzzString(n) {
   let result = '';
   for (let i = 1; i <= n; i++) {
-    result += 'n';
+    result += `${i}`;
     if (i < n) {
       result += ' ';
     }
