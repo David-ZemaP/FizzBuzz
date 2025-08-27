@@ -76,12 +76,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "29b580124c697ea1d902e07bd14b3ec38bbcda4f",
     "author": "David-ZemaP",
     "commit": {
       "date": "2025-08-27T02:41:37.000Z",
       "message": "feat: Green test for multiplicador cualquier numero",
-      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/HEAD"
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/29b580124c697ea1d902e07bd14b3ec38bbcda4f"
     },
     "stats": {
       "total": 4,
@@ -93,5 +93,24 @@
     "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T02:49:15.000Z",
+      "message": "feat: Red test for Convert a number into a string",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 8,
+      "deletions": 0,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 4,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]
