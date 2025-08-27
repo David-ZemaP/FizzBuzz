@@ -152,12 +152,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "e2df1e491f58a0ba86d72d5241458014f1d04cec",
     "author": "David-ZemaP",
     "commit": {
       "date": "2025-08-27T02:56:14.000Z",
       "message": "feat: Red test for return 'Fizz' when the number is 3",
-      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/HEAD"
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/e2df1e491f58a0ba86d72d5241458014f1d04cec"
     },
     "stats": {
       "total": 4,
@@ -169,5 +169,24 @@
     "test_count": 6,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T02:58:34.000Z",
+      "message": "feat: Green test for return 'Fizz' when the number is 3",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/HEAD"
+    },
+    "stats": {
+      "total": 3,
+      "additions": 3,
+      "deletions": 0,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
