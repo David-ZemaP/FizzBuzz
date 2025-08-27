@@ -1,4 +1,4 @@
-import { ConvertFizzBuzz } from './fizzbuzz';
+import { ConvertFizzBuzz, generateFizzBuzzString } from './fizzbuzz';
 
 describe('FizzBuzz example', () => {
   it('deberia retornar 1', () => {
@@ -27,5 +27,9 @@ describe('FizzBuzz example', () => {
 
   it('deberia retornar FizzBuzz si es multiplo de 3 y de 5', () => {
     expect(ConvertFizzBuzz(15)).toEqual('FizzBuzz');
+  });
+
+  it('deberia retornar una cadena dependiendo del numero ingresado', () => {
+    expect(generateFizzBuzzString(10)).toEqual('n n n n n n n n n n');
   });
 });
