@@ -7,11 +7,15 @@ function IsMultipleof5(n) {
 }
 
 export function ConvertFizzBuzz(n) {
+  if (n % 3 === 0 && n % 5 === 0) {
+    return 'FizzBuzz';
+  }
   if (IsMultipleof3(n)) {
     return 'Fizz';
   }
   if (IsMultipleof5(n)) {
     return 'Buzz';
   }
+
   return `${n}`;
 }
