@@ -29,7 +29,11 @@ describe('FizzBuzz example', () => {
     expect(ConvertFizzBuzz(15)).toEqual('FizzBuzz');
   });
 
-  it('deberia retornar una cadena dependiendo del numero ingresado', () => {
+  it('deberia retornar una cadena de 10 n', () => {
     expect(generateFizzBuzzString(10)).toEqual('n n n n n n n n n n');
+  });
+
+  it('deberia retornar una cadena de cualquier numero de n', () => {
+    expect(generateFizzBuzzString(5)).toEqual('n n n n n');
   });
 });
