@@ -247,12 +247,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "d43403138402c922c22c897915e661f027e9b7ab",
     "author": "David-ZemaP",
     "commit": {
       "date": "2025-08-27T03:05:25.000Z",
       "message": "feat: Green test for return 'Buzz' if the number is 5",
-      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/HEAD"
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/d43403138402c922c22c897915e661f027e9b7ab"
     },
     "stats": {
       "total": 3,
@@ -264,5 +264,24 @@
     "test_count": 8,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T03:06:59.000Z",
+      "message": "feat: Red test for return 'Buzz' when the number is multiple of 5",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/HEAD"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 4,
+      "deletions": 0,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 9,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]
