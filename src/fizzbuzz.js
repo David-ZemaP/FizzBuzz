@@ -1,3 +1,3 @@
-export function ConvertFizzBuzz() {
-  return '1';
+export function ConvertFizzBuzz(n) {
+  return `${n}`;
 }
