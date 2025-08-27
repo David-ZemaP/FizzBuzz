@@ -133,12 +133,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "8f676537e1fbe9cb4b63a0575b364c94db4b5659",
     "author": "David-ZemaP",
     "commit": {
       "date": "2025-08-27T02:54:24.000Z",
       "message": "feat: Green test for convert any number into a string",
-      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/HEAD"
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/8f676537e1fbe9cb4b63a0575b364c94db4b5659"
     },
     "stats": {
       "total": 4,
@@ -150,5 +150,24 @@
     "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T02:56:14.000Z",
+      "message": "feat: Red test for return 'Fizz' when the number is 3",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/HEAD"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 4,
+      "deletions": 0,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 6,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]
