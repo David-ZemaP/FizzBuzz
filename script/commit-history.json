@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "56ea2c2a5ed7329a3340e1f6870fd2e8b9e01cc2",
     "author": "David-ZemaP",
     "commit": {
       "date": "2025-08-27T02:38:46.000Z",
       "message": "feat: Green test for multiplicador, simple",
-      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/HEAD"
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/56ea2c2a5ed7329a3340e1f6870fd2e8b9e01cc2"
     },
     "stats": {
       "total": 46,
@@ -55,5 +55,24 @@
     "test_count": 2,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T02:40:47.000Z",
+      "message": "feat: Red test for multiplicador cualquier numero",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/HEAD"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 4,
+      "deletions": 0,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 3,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]

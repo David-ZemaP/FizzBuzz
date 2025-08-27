@@ -8,4 +8,8 @@ describe('Calculadora', () => {
   it('deberia multiplicar dos numeros', () => {
     expect(multiplicador(3, 2)).toEqual(6);
   });
+
+  it('deberia multiplicar cualquier numero', () => {
+    expect(multiplicador(8, 2)).toEqual(16);
+  });
 });
