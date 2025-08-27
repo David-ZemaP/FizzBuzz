@@ -1,5 +1,4 @@
-import sumar from './sumador';
-import multiplicar from './multiplicador';
+import { sumador, multiplicador } from './calculadora.js';
 
 const first = document.querySelector('#primer-numero');
 const second = document.querySelector('#segundo-numero');
@@ -13,14 +12,14 @@ form.addEventListener('submit', (event) => {
   const firstNumber = Number.parseInt(first.value);
   const secondNumber = Number.parseInt(second.value);
 
-  div.innerHTML = '<p>' + sumar(firstNumber, secondNumber) + '</p>';
+  div.innerHTML = `<p> ${sumador(firstNumber, secondNumber)} </p>`;
 });
 
-mult.addEventListener('click', (event)=>{
+mult.addEventListener('click', (event) => {
   event.preventDefault();
 
   const firstn = Number.parseInt(first.value);
   const secondn = Number.parseInt(second.value);
 
-  div.innerHTML = '<p>' + multiplicar(firstn, secondn) + '</p>';
+  div.innerHTML = `<p> ${multiplicador(firstn, secondn)}  </p>`;
 });

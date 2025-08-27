@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "d1e0c1846df1e7b909c216781da4c5c3c792e122",
     "author": "David-ZemaP",
     "commit": {
       "date": "2025-08-19T02:37:11.000Z",
       "message": "Añadir la funcion de multiplicar en la pagina",
-      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/HEAD"
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/d1e0c1846df1e7b909c216781da4c5c3c792e122"
     },
     "stats": {
       "total": 34,
@@ -34,6 +34,25 @@
     },
     "coverage": 100,
     "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T02:38:46.000Z",
+      "message": "feat: Green test for multiplicador, simple",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/HEAD"
+    },
+    "stats": {
+      "total": 46,
+      "additions": 22,
+      "deletions": 24,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 2,
     "failed_tests": 0,
     "conclusion": "success"
   }
