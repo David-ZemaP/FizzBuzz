@@ -95,12 +95,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "6d78197585143e0f56e377fcf876ce7691537bfa",
     "author": "David-ZemaP",
     "commit": {
       "date": "2025-08-27T02:49:15.000Z",
       "message": "feat: Red test for Convert a number into a string",
-      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/HEAD"
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/6d78197585143e0f56e377fcf876ce7691537bfa"
     },
     "stats": {
       "total": 8,
@@ -110,6 +110,25 @@
     },
     "coverage": 100,
     "test_count": 4,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T02:53:04.000Z",
+      "message": "feat: Red test for convert any number into a string",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 5,
+      "deletions": 1,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 5,
     "failed_tests": 1,
     "conclusion": "failure"
   }
