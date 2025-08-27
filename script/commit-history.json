@@ -380,12 +380,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "88ff10335bde453450325d332a485c50bb85e2d6",
     "author": "David-ZemaP",
     "commit": {
       "date": "2025-08-27T03:24:16.000Z",
       "message": "feat: Red test for return a string of n, depends of the input number",
-      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/HEAD"
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/88ff10335bde453450325d332a485c50bb85e2d6"
     },
     "stats": {
       "total": 6,
@@ -397,5 +397,24 @@
     "test_count": 12,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "David-ZemaP",
+    "commit": {
+      "date": "2025-08-27T03:28:10.000Z",
+      "message": "feat: Green test for return a string of n, depends of the input number",
+      "url": "https://github.com/David-ZemaP/EmpezamosConJS/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 9,
+      "deletions": 2,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 12,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]

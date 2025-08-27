@@ -23,6 +23,13 @@ export function ConvertFizzBuzz(n) {
   return `${n}`;
 }
 
-export function generateFizzBuzzString() {
-  return 'n n n n n n n n n n';
+export function generateFizzBuzzString(n) {
+  let result = '';
+  for (let i = 1; i <= n; i++) {
+    result += 'n';
+    if (i < n) {
+      result += ' ';
+    }
+  }
+  return result;
 }
