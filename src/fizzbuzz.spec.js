@@ -36,4 +36,8 @@ describe('FizzBuzz example', () => {
   it('deberia retornar una cadena de cualquier numero de n', () => {
     expect(generateFizzBuzzString(5)).toEqual('n n n n n');
   });
+
+  it('deberia retornar la cadena de numeros', () => {
+    expect(generateFizzBuzzString(5)).toEqual('1 2 3 4 5');
+  });
 });
